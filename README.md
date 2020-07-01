@@ -1,2 +1,2 @@
 # Twitter-Analysis
-Twitter Üzerine yaptığım analizleri içerir.
+Pyhton ile Twitter Üzerine yaptığım analizleri içerir.
